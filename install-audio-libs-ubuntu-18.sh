@@ -74,7 +74,7 @@ echo ""
 echo "Load and install natilus scripts"
 git clone https://github.com/xpilgrim/nautilus-scripts-audio-video.git
 cd $PWD/nautilus-scripts-audio-video
-sh ./install_nautilus_scripts_ubuntu_13_local.sh
+sh ./install_u_18_local.sh
 cd ..
 rm -rf $PWD/nautilus-scripts-audio-video
 
